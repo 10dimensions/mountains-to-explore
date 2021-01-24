@@ -1,0 +1,90 @@
+[
+  {
+    "location": "27.9881, 86.9250",
+    "name": "Mount Everest",
+    "elevation": "8,848 m (29,029 ft)",
+    "prominence": "8,848 m (29,029 ft)",
+    "continent": "Asia",
+    "mountain_range": "Himalaya",
+    "country": "Nepal / China",
+    "first_ascent": 1953,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Everest_kalapatthar_crop.jpg/150px-Everest_kalapatthar_crop.jpg"
+  },
+  {
+    "location": "32.6532, 70.0109",
+    "name": "Aconcagua",
+    "elevation": "6,961 m (22,838 ft)",
+    "prominence": "6,961 m (22,838 ft)",
+    "continent": "South America",
+    "mountain_range": "Andes",
+    "country": "Argentina",
+    "first_ascent": 1897,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aconcagua_13.JPG/150px-Aconcagua_13.JPG"
+  },
+  {
+    "location": "63.0692, 151.0070",
+    "name": "Denali",
+    "elevation": "6,194 m (20,322 ft)",
+    "prominence": "6,144 m (20,157 ft)",
+    "continent": "North America",
+    "mountain_range": "Alaska Range",
+    "country": "United States",
+    "first_ascent": 1913,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mount_McKinley.jpg/150px-Mount_McKinley.jpg"
+  },
+  {
+    "location": "3.0674, 37.3556",
+    "name": "Kilimanjaro",
+    "elevation": "5,895 m (19,341 ft)",
+    "prominence": "5,885 m (19,308 ft)",
+    "continent": "Africa",
+    "mountain_range": "–",
+    "country": "Tanzania",
+    "first_ascent": 1889,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mt._Kilimanjaro_12.2006.JPG/150px-Mt._Kilimanjaro_12.2006.JPG"
+  },
+  {
+    "location": "43.3499, 42.4453",
+    "name": "Mount Elbrus",
+    "elevation": "5,642 m (18,510 ft)",
+    "prominence": "4,741 m (15,554 ft)",
+    "continent": "Europe",
+    "mountain_range": "Caucasus Mountains",
+    "country": "Russia",
+    "first_ascent": 1874,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_%D1%81_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0_%D0%93%D1%83%D0%BC%D0%B1%D0%B0%D1%88%D0%B8.JPG/150px-%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_%D1%81_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0_%D0%93%D1%83%D0%BC%D0%B1%D0%B0%D1%88%D0%B8.JPG"
+  },
+  {
+    "location": "78.6341, 85.2135",
+    "name": "Mount Vinson",
+    "elevation": "4,892 m (16,050 ft)",
+    "prominence": "4,892 m (16,050 ft)",
+    "continent": "Antarctica",
+    "mountain_range": "Sentinel Range",
+    "country": "–",
+    "first_ascent": 1966,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Vinson_from_NW_at_Vinson_Plateau_by_Christian_Stangl_%28flickr%29.jpg/150px-Mount_Vinson_from_NW_at_Vinson_Plateau_by_Christian_Stangl_%28flickr%29.jpg"
+  },
+  {
+    "location": "4.0846, 137.1866",
+    "name": "Puncak Jaya",
+    "elevation": "4,884 m (16,024 ft)",
+    "prominence": "4,884 m (16,024 ft)",
+    "continent": "Australia",
+    "mountain_range": "Sudirman Range",
+    "country": "Indonesia",
+    "first_ascent": 1962,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Puncakjaya.jpg/150px-Puncakjaya.jpg"
+  },
+  {
+    "location": "36.4559, 148.2636",
+    "name": "Mount Kosciuszko",
+    "elevation": "2,228 m (7,310 ft)",
+    "prominence": "2,228 m (7,310 ft)",
+    "continent": "Australia",
+    "mountain_range": "Great Dividing Range",
+    "country": "Australia",
+    "first_ascent": "Unknown",
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mount_Kosciuszko01Oct06.JPG/150px-Mount_Kosciuszko01Oct06.JPG"
+  }
+]
